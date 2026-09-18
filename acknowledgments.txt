@@ -1,0 +1,5 @@
+GitHub Copilot Chat in Visual Studio Code was used for explanatory guidance and implementation support while working through the notebook structure and assignment requirements.
+
+No outside human assistance was used on this project. I did not discuss the assignment with another student or collaborator, and no additional libraries beyond the standard course-allowed tools (pandas and NumPy) were required for the analysis.
+
+I did not use any generative AI tool to generate the final quantitative results. The work was completed using the provided project data and the course materials.
